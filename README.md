@@ -10,3 +10,11 @@ This is a basic webstack based on webapp2 and python. This includes html, css, j
 
 #### Demo site:
 www.kevinfrew.com
+
+#### Libraries:
+
+Responsive Nav (http://responsive-nav.com/)
+https://github.com/viljamis/responsive-nav.js
+
+SlidesJS (http://slidesjs.com/)
+https://github.com/nathansearles/Slides/tree/SlidesJS-3
