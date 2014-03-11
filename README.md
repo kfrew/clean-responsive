@@ -13,10 +13,14 @@ www.kevinfrew.com
 
 #### Libraries:
 
-Responsive Nav (http://responsive-nav.com/)
+#####Responsive Nav (http://responsive-nav.com/)
 https://github.com/viljamis/responsive-nav.js
 
-SlidesJS (http://slidesjs.com/)
+#####SlidesJS (http://slidesjs.com/)
 https://github.com/nathansearles/Slides/tree/SlidesJS-3
 
-Roboto Font (https://www.google.com/fonts)
+*Slightly modified to allow for reordering of pagination. I wanted to have < 1 2 3 4 >; where the arrows represent the links to the previous and next slides, and the numbers indicate the current page and allow for jumping to a page.
+
+Under the current implementation only < > 1 2 3 4 is possible. Both versions are provided.
+
+#####Roboto Font (https://www.google.com/fonts)
