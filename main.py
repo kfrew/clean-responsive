@@ -4,7 +4,7 @@
 
 __author__ = "Kevin Frew"
 __license__ = "GPL"
-__version__ = "1.0"
+__version__ = "1.1"
 __maintainer__ = "Kevin Frew"
 __email__ = "kevin@kevinfrew.com"
 

@@ -5,22 +5,17 @@ This is a basic webstack based on webapp2 and python. This includes html, css, j
 
 #### Features:
 * Simple semantic markup
-* Responsive design using CSS3 flexboxes.
+* Responsive design using Bootstrap v3.
 * Designed around Google AppEngine, but can be adapted to any webapp2, python implementation.
+* Extremely limited custom js (used to place captions outside Bootstrap carousel see /templates/photography.html)
 
 #### Demo site:
 www.kevinfrew.com
 
 #### Libraries:
 
-#####Responsive Nav (http://responsive-nav.com/)
-https://github.com/viljamis/responsive-nav.js
-
-#####SlidesJS (http://slidesjs.com/)
-https://github.com/nathansearles/Slides/tree/SlidesJS-3
-
-*Slightly modified to allow for reordering of pagination. I wanted to have < 1 2 3 4 >; where the arrows represent the links to the previous and next slides, and the numbers indicate the current page and allow for jumping to a page.
-
-Under the current implementation only < > 1 2 3 4 is possible. Both versions are provided.
+#####Bootstrap v3.3.7 (http://getbootstrap.com)
 
 #####Roboto Font (https://www.google.com/fonts)
+
+#####Stock Photos from SlidesJS (http://slidesjs.com/)
